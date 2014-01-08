@@ -1,8 +1,10 @@
 ##Front-End Position Assignment
 
-###Task: Implement a page that renders design according to the attached mockup.
- 
-As a data source, use JSONP from http://assets.airbnb.com/frontend/search_results.js
+###Task: Implement a page according to design
+
+Mockups of design are in this repo, in .psd and jpeg formats.
+
+As a data source, use JSONP from http://assets.airbnb.com/frontend/search_results.js. (thanks AirBnb for good example)
 The JSONP callback is search_results.
 Thumbnail Image, title, address and price are all in that JSONP. 
 
@@ -31,7 +33,7 @@ Stylesheet must be written with SASS
 
 Font size and color can be loosely defined; but shadows must be sampled from designs.
 
-Plus points:
+####Plus points:
 * (big one) Using AngularJS: one view and directive is enough
 * Usage of promises
 * Usage of Compass for border-radius, box-shadow and transition
